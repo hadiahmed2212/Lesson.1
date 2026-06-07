@@ -1,0 +1,7 @@
+print("My name is Hadi")
+print("67")
+print("I am 10 years old",67)
+print("Hello \n")
+print("my name is Hadi")
+print("laptop",end="   ")
+print("laptop not working")
