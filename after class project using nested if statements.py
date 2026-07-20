@@ -13,4 +13,3 @@ elif holiday_type == 2:
         print ("your final decison was hiking, enjoy your new hiking trip!")
 if holiday_type != 1 and holiday_type != 2:
     print("ERROR WRONG INPUT!")
-# vs code helped me using AI to press tab to indent the code and make it more readable. I also used AI to help me with the nested if statements.
